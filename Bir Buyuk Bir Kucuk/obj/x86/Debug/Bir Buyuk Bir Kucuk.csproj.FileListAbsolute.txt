@@ -1,0 +1,7 @@
+E:\03 - Yazılım\05 - Büyük Projeler\40 Bir Buyuk Bir Kucuk\Bir Buyuk Bir Kucuk\obj\x86\Debug\Bir Buyuk Bir Kucuk.exe
+E:\03 - Yazılım\05 - Büyük Projeler\40 Bir Buyuk Bir Kucuk\Bir Buyuk Bir Kucuk\obj\x86\Debug\Bir Buyuk Bir Kucuk.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\40 Bir Buyuk Bir Kucuk\Bir Buyuk Bir Kucuk\bin\Debug\Bir Buyuk Bir Kucuk.exe
+E:\03 - Yazılım\05 - Büyük Projeler\40 Bir Buyuk Bir Kucuk\Bir Buyuk Bir Kucuk\bin\Debug\Bir Buyuk Bir Kucuk.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\40 Bir Buyuk Bir Kucuk\Bir Buyuk Bir Kucuk\obj\x86\Debug\Bir_Buyuk_Bir_Kucuk.Form1.resources
+E:\03 - Yazılım\05 - Büyük Projeler\40 Bir Buyuk Bir Kucuk\Bir Buyuk Bir Kucuk\obj\x86\Debug\Bir_Buyuk_Bir_Kucuk.Properties.Resources.resources
+E:\03 - Yazılım\05 - Büyük Projeler\40 Bir Buyuk Bir Kucuk\Bir Buyuk Bir Kucuk\obj\x86\Debug\Bir Buyuk Bir Kucuk.csproj.GenerateResource.Cache
